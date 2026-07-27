@@ -333,24 +333,26 @@ animation: 2s photoshop forwards;
 0%{width: 0%;}
 100%{width: 90%; }
 }
-.skills .skill wordpress{ 
+
+.skills .skill .wordpress{
 width: 0%;
 animation: 2s wordpress forwards;
 }
+
 @keyframes wordpress{
-0%{width: 0%; }
+0%{width: 0%;}
 100%{width: 80%; }
 }
-.skills .skill react{ 
+.skills .skill .react{
     width: 0%;
     animation: 2s react forwards;
     }
     @keyframes react{
-    0%{width: 0%; }
-    100%{width: 80%; }
+    0%{width: 0%;}
+    100%{width: 70%; }
     }
-    .skills .skill .comunicacion{ 
-    width: 0%;
+.skills .skill .comunicacion{ 
+width: 0%;
 animation: 2s comunicacion forwards;
 }
 @keyframes comunicacion{
@@ -474,7 +476,7 @@ animation: 2s dedicacion forwards;
     position: relative;
     bottom: 4px;
 }
-.curriculum .fila .item .conectord{
+.curriculum .fila .item .conectord {
     height: 2px;
     background-color: #1cb698;
     width: 47px;

@@ -29,7 +29,7 @@ function efectoHabilidades(){
         habilidades[6].classList.add("equipo");
         habilidades[7].classList.add("creatividad");
         habilidades[8].classList.add("dedicacion");
-        habilidades[9].classList.add("proyect");
+        habilidades[9].classList.add("management");
     }
 }
 //detectamos el scrolling de la pagina mediante el evento scroll
