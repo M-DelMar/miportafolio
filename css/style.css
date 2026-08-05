@@ -66,7 +66,7 @@ html {
 }
 
 .inicio {
-    background: linear-gradient(to top, rgba(30, 35, 38, .8)), url(/img/fondo.avif) no-repeat center center;
+    background: linear-gradient(to top, rgba(30, 35, 38, .8)), url(../img/fondo.avif) no-repeat center center;
     background-size: cover;
     height: 100vh;
     color: #fff;
@@ -557,7 +557,7 @@ animation: 2s dedicacion forwards;
 }
 /*section contacto*/
 .contacto{
-    background-image: url(/img/mapa2.jpg);
+    background-image: url(../img/mapa2.jpg);
     background-color: #1e2326;
     color: #fff;
     padding: 50px 0;
