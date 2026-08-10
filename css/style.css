@@ -95,7 +95,7 @@ html {
 .inicio .container-banner h1 {
     margin-top: 40px;
     font-size: 42px;
-    font-family: 'righteous';
+    font-family: 'Righteous';
 }
 
 .inicio .container-banner h2 {
@@ -120,6 +120,7 @@ html {
 .inicio .container-banner .redes a:hover {
     background-color: #1cb698;
 }
+/*SECTION SOBRE4 MI*/
 
 .sobremi {
     background-color: #424242;
@@ -134,9 +135,9 @@ html {
 
 .sobremi h2 {
     font-size: 48px;
-    font-family: 'righteous';
+    font-family: 'Righteous';
     text-align: center;
-    padding: 20px 0;
+    padding: 20px 0;                                          
 }
 
 .sobremi .container-section p {
@@ -215,7 +216,7 @@ html {
 .sobremi button {
     cursor: pointer;
     background-color: transparent;
-    border: 2px solid;
+    border: 2px solid #fff;
     width: fit-content;
     display: block;
     margin: 20px auto;
